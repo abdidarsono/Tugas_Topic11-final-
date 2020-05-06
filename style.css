@@ -1,0 +1,203 @@
+
+body{
+    background-color: #f9f9f9;
+    margin: 0;
+    text-align: center;
+}
+.topcontainer{
+    position: relative;
+    background-color: #00263b;
+    padding-top: 400px;
+}
+.multimedia2{
+    position: absolute;
+    top: 200px;
+    right: 200px;
+    width: 8%;
+}
+#nama{
+    display: inline-block;
+    margin-top: 0;
+    color: #fa744f;    
+    font-family: 'Concert One', cursive;
+    font-size: 60px;
+}
+.multimedia1{
+    position: absolute;
+    top: 350px;
+    left: 100px;
+    width: 8%;
+}
+.man{
+    width: 30%;
+}
+.user{
+    position: absolute;
+    top: 5px;
+    left: 70px;
+    width: 8%;
+}
+.tabel{
+    border-spacing: 30px;
+    position: absolute;
+    text-align: right;
+    color: khaki;
+    font-size: 20px;
+    top: 30px;
+    right: 40px;
+    font-family: sans-serif;
+}
+#paragraph1{
+    color: white;
+    font-family: 'Concert One', cursive;
+    font-size: 50px;
+}
+.user2{
+    width : 25%;
+}
+#perkenalan{
+    bottom: 20px;
+    color: #fa744f;    
+    font-family: 'Concert One', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+#penjelasanperkenalan{
+    color: black;    
+    font-family: sans-serif;
+    font-size: 25px;
+    line-height: 2;
+    margin: auto 100 auto 100;
+}
+#batas1{
+    border-style: none;
+    border-bottom: dotted;
+    border-color:  #00263b;
+    border-width: 15px;
+    width: 150px;
+}
+#profildiri{
+    text-align: center;
+    font-family: 'Concert One', cursive;
+    font-size: 60px;
+    color: #fa744f;
+    padding-bottom: 50px;
+}
+.riwayatsaya{
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+    
+}
+#batas2{
+    border-style: none;
+    border-bottom: dotted;
+    border-color:  #00263b;
+    border-width: 15px;
+    width: 150px;
+}
+#riwayat{
+    margin-top: 5px;
+    color: black;    
+    font-family: sans-serif;
+    font-size: 30px;
+}
+#penjelasanriwayat{
+    color: black;    
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.organisasisaya{
+    width: 25%;
+    float: right;
+    margin-left: 20px;
+}
+#tentangorganisasi{
+    margin-top: 5px;
+    color: black;    
+    font-family: sans-serif;
+    font-size: 30px;
+}
+#penjelasanorganisasi{
+    color: black;    
+    font-family: sans-serif;
+    font-size: 20px;
+}
+#batas3{
+    border-style: none;
+    border-bottom: dotted;
+    border-color:  #00263b;
+    border-width: 15px;
+    width: 150px;
+}
+.matakuliahsaya{
+    width: 25%;
+    float: left;
+    margin-left: 20px;
+    margin-right: 40px;
+}
+#tentangmatakuliah{
+    margin-top: 5px;
+    color: black;    
+    font-family: sans-serif;
+    font-size: 30px;
+}
+#tabel2{
+    color: black;    
+    font-family: sans-serif;
+    font-size: 20px;
+    border-radius: 30px;
+    border-spacing: 10px;
+    border-collapse: initial;
+}
+#batas4{
+
+    border-style: none;
+    border-bottom: dotted;
+    border-color:  #00263b;
+    border-width: 15px;
+    width: 150px;
+    padd
+}
+.bottomcontainer{
+    background-color: #00263b;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+#beranda{
+    text-align: center;
+    font-size: 20px;
+    stroke-opacity: initial;
+    color: khaki;
+    font-family: sans-serif;
+    word-spacing: 30px;
+    position: relative;
+}
+#multimedia{
+    text-align: center;
+    font-size: 28px;
+    stroke-opacity: initial;
+    color: khaki;
+    font-family: sans-serif;
+    word-spacing: 60px;
+    display: inline-block;
+    
+}
+#batas5{
+    border-style: none;
+    border-bottom: inset;
+    border-color:  khaki;
+    border-width: 5px;
+    width: 500px;
+}
+
+.skillrow{
+    width: 80%;
+    margin: 200px auto 200px auto;
+    text-align: left;
+    line-height: 2;
+}
+.closing{
+    margin: 70px;
+    padding: 10px;
+}
